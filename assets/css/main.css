@@ -2037,7 +2037,7 @@ input, select, textarea {
 
 /* Image */
 .projectLogo {
-	max-width: 40%;
+	width: 40%;
 }
 
 	.image {
