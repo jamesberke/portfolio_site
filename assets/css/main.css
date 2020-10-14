@@ -2037,10 +2037,8 @@ input, select, textarea {
 
 /* Image */
 #projectLogo {
-	width: 30%;
-
+	width: 300px;
 }
-
 	.image {
 		border-radius: 0.35em;
 		border: 0;
