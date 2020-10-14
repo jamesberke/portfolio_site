@@ -2036,6 +2036,9 @@ input, select, textarea {
 		}
 
 /* Image */
+.projectLogo {
+	max-width: 40%;
+}
 
 	.image {
 		border-radius: 0.35em;
