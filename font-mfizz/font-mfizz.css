@@ -183,6 +183,7 @@
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
   font-size: 55px;
+  margin-right: 5px;
   font-smoothing: antialiased;
 }
 
